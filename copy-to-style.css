@@ -1,0 +1,29 @@
+.wp-parsi-sport-tabs0 {	display:block;margin:0;padding:7px;width:300px;height:auto;background:#1D2123;}
+.wp-parsi-sport-tabs {	display:block;padding:0;width:300px;}
+.wp-parsi-stth {	display:inline-block;margin:0;padding:5px;width:140px;line-height:32px;height:32px;float:right;cursor:pointer;background:#666;background-image: -webkit-gradient(linear, top right, bottom left, from(#666), to(#333));background-image: -webkit-linear-gradient(top, #666, #333);background-image:    -moz-linear-gradient(top, #666, #333);background-image:      -o-linear-gradient(top, #666, #333);background-image: linear-gradient(to bottom, #666, #333);color:#fff;text-align:center;font-family:Arial, Helvetica, sans-serif;font-size:16px;font-weight:900;}
+.wp-parsi-stth.active {	cursor:default;color:#666;background-position:left top;background-repeat:no-repeat;}
+.cpad1 .wp-parsi-stth.active,.cpad1 .wp-parsi-sttr {background-image:url('images/adown1.png');}
+.cpad2 .wp-parsi-stth.active,.cpad2 .wp-parsi-sttr {background-image:url('images/adown2.png');}
+.cpad3 .wp-parsi-stth.active,.cpad3 .wp-parsi-sttr {background-image:url('images/adown3.png');}
+.cpad4 .wp-parsi-stth.active,.cpad4 .wp-parsi-sttr {background-image:url('images/adown4.png');}
+.cpad5 .wp-parsi-stth.active,.cpad5 .wp-parsi-sttr {background-image:url('images/adown5.png');}
+.cpad6 .wp-parsi-stth.active,.cpad6 .wp-parsi-sttr {background-image:url('images/adown6.png');}
+.cpad7 .wp-parsi-stth.active,.cpad7 .wp-parsi-sttr {background-image:url('images/adown7.png');}
+.cpad8 .wp-parsi-stth.active,.cpad8 .wp-parsi-sttr {background-image:url('images/adown8.png');}
+.cpad9 .wp-parsi-stth.active,.cpad9 .wp-parsi-sttr {background-image:url('images/adown9.png');}
+.cpad10 .wp-parsi-stth.active,.cpad10 .wp-parsi-sttr {background-image:url('images/adown10.png');}
+.cpad11 .wp-parsi-stth.active,.cpad11 .wp-parsi-sttr {background-image:url('images/adown11.png');}
+.cpad12 .wp-parsi-stth.active,.cpad12 .wp-parsi-sttr {background-image:url('images/adown12.png');}
+.cpad13 .wp-parsi-stth.active,.cpad13 .wp-parsi-sttr {background-image:url('images/adown13.png');}
+.cpad14 .wp-parsi-stth.active,.cpad14 .wp-parsi-sttr {background-image:url('images/adown14.png');}
+.wp-parsi-sttr {	display:block;padding:0;margin:0;clear:both;position:relative;height:180px;width:300px;background-color:#fff;background-position:right -42px;;background-repeat:no-repeat;-moz-transition: all 0.3s ease-out;-o-transition: all 0.3s ease-out;-webkit-transition: all 0.3s ease-out;transition: all 0.3s ease-out; }
+.wp-parsi-sttd {	margin:0;padding:5px;width:290px;position:absolute;top:0;left:0;right:0;bottom:0;}
+.tabth2 {	box-shadow: 	inset -3px 0px 10px rgba(0, 0, 0, 0.2);-moz-box-shadow:	inset -3px 0px 10px rgba(0, 0, 0, 0.2);-o-box-shadow: 		inset -3px 0px 10px rgba(0, 0, 0, 0.2);-khtml-box-shadow: 	inset -3px 0px 10px rgba(0, 0, 0, 0.2);-webkit-box-shadow: inset -3px 0px 10px rgba(0, 0, 0, 0.2);}
+.tabth1 {	box-shadow: 	inset 3px 0px 10px rgba(0, 0, 0, 0.2);-moz-box-shadow:	inset 3px 0px 10px rgba(0, 0, 0, 0.2);-o-box-shadow: 		inset 3px 0px 10px rgba(0, 0, 0, 0.2);-khtml-box-shadow: 	inset 3px 0px 10px rgba(0, 0, 0, 0.2);-webkit-box-shadow: inset 3px 0px 10px rgba(0, 0, 0, 0.2);}
+.tabth1.active,.tabth2.active {	box-shadow: 	0px 0px 0px rgba(0, 0, 0, 0);-moz-box-shadow:	0px 0px 0px rgba(0, 0, 0, 0);-o-box-shadow: 		0px 0px 0px rgba(0, 0, 0, 0);-khtml-box-shadow: 	0px 0px 0px rgba(0, 0, 0, 0);-webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, 0);}
+.wp-parsi-st-table th {	width:30%;line-height:100%;}
+.wp-parsi-st-table img{	width:56px;}
+.wp-parsi-st-deta {	font-family:Arial, Helvetica, sans-serif;text-align:center;line-height:100%;font-size:small;;}
+.center.bold {	text-align:center;font-weight:900;}
+.st-countdown {	color:#CC0000;}
+.gol {	font-family:Tahoma;font-size:xx-large;font-weight:900;color:#0099CC;text-shadow:1px 1px 0px #333;}
